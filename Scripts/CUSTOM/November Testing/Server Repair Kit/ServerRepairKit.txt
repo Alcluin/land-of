@@ -1,0 +1,6 @@
+Server Repair Kit
+
+"Its broken!" "This doesnt work!" "This is bugged!" Ever hear that from your players? This kit might be what you're looking for!
+Contains 1 roll of Duct Tape (works great on players mouths), 1 tube of Super Glue (Good for glueing dropped "trash" items into players pack), 1 Bug Spray (for "bugged" items), 1 roll of Baling Wire (you supply the spit).. & 1 pet monkey named "Wrench" Well... it WOULD have had the pet monkey, but it wouldnt stay in the box...All in a beautiful greenish box you'll be proud to display.. (well maybe not PROUD, some may re-hue it or hide the box). Just deco items, set Movable = false so you can display the box without the players "borrowing" the items.
+
+
